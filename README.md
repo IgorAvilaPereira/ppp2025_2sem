@@ -69,4 +69,5 @@ Os padrões de projeto são classificados como:
 [revisao-oo.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/revisao-oo.pdf) <br>
 [strategy_aplicabilidade.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/strategy_aplicabilidade.png) <br>
 [strategy_exemplos.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/strategy_exemplos.md) <br>
+[aula](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/aula) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/Strategy) <br>
