@@ -1,4 +1,4 @@
-* [Vídeo de Introdução](https://www.youtube.com/watch?v=AWOf6Wo6gtg&list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
+* [Vídeo de Introdução - Padrões de Projeto](https://www.youtube.com/watch?v=AWOf6Wo6gtg&list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
 
 Os Padrões de Projeto são soluções já encontradas, experimentadas e testadas e que podem ser aplicadas a projetos sem ter que "reinventar a roda". Vários Padrões de Projeto foram catalogados e são um conjunto de melhores práticas que são seguidos e usados em projetos de software orientado a objetos.
 
@@ -18,26 +18,32 @@ Os padrões de projeto são classificados como:
 [Exemplo - Aula Hero](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/heroi/Heroi)
 -->
 
+
 <!--
-**Encontro Síncrono - Strategy - 30/09/21:**
-
-* [Vídeo](https://youtu.be/dKxU3_6VQSI)
-
 * [Código](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/Strategy300921)
 -->
 
 **Padrão Strategy:**
 
 * [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/1_strategy/01_strategy.pdf)
-* [Trabalho 1 - Strategy](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-1---strategy)
+
+* Trabalho 1 - Strategy:
+
+    * **Descrição:** Implemente uma solução para algum dos exemplos propostos
 
 **Vídeos:**
 
 * [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWezuKlZteIipLy1nhFNacKG)  
+
 * [Teoria](https://youtu.be/CLT1j26tSug)
+
 * [Prática](https://youtu.be/-imnRJbv1ns)
-* [Trabalho](https://youtu.be/p_8G8EMuJxg)
-<!--* [Código dos Vídeos](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/PadraoStrategy)-->
+
+<!--* [Trabalho](https://youtu.be/p_8G8EMuJxg)
+* [Código dos Vídeos](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/PadraoStrategy)-->
+
+* [Encontro Síncrono - Strategy - 30/09/21](https://youtu.be/dKxU3_6VQSI)
+
 
 **Conteúdo Complementar:**
 
