@@ -1,4 +1,4 @@
-package negocio;
+package negocio.voo;
 
 public class VoarBasico implements ComportamentoVoo {
 

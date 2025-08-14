@@ -1,4 +1,4 @@
-package negocio;
+package negocio.som;
 
 public class Quack implements ComportamentoSom {
 

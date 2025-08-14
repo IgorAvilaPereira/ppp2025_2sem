@@ -1,5 +1,8 @@
 package negocio;
 
+import negocio.som.ComportamentoSom;
+import negocio.voo.ComportamentoVoo;
+
 public abstract class Pato {
     protected String id;
     protected String nome;

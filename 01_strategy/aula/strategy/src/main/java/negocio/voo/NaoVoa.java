@@ -1,4 +1,4 @@
-package negocio;
+package negocio.voo;
 
 public class NaoVoa implements ComportamentoVoo {
 
