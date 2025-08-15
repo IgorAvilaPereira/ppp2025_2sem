@@ -10,10 +10,9 @@
 * [Teoria](https://youtu.be/ny-4nZj138c)
 
 * [Prática](https://youtu.be/e0_iBUZn26Y)
-
+<!--
 * [Trabalho](https://youtu.be/-O-PPbFYSxM)
 
-<!--
 
 * [Exemplo 1](
 https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observer/)
