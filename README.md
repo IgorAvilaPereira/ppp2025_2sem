@@ -71,3 +71,6 @@ Os padrões de projeto são classificados como:
 [strategy_exemplos.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/strategy_exemplos.md) <br>
 [aula](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/aula) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/Strategy) <br>
+## [./02_observer](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./02_observer) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/02_observer) <br><br>
+&nbsp;
