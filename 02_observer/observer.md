@@ -84,7 +84,7 @@ public class Assinante implements Observer {
 ---
 
 ```java
-public class Canal {
+public class Canal implements Subject {
     private List<Observer> observers = new ArrayList<>();
 
     public void adicionarObserver(Observer o) {
