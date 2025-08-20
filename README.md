@@ -72,6 +72,7 @@ Os padrões de projeto são classificados como:
 [aula](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/aula) <br>
 [Strategy](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./01_strategy/Strategy) <br>
 ## [./02_observer](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./02_observer) <br>
+[observer.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./02_observer/observer.md) <br>
 [observer.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./02_observer/observer.pdf) <br>
 
 <!--* [Código - Painel de Supermercado](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/PainelObserver)
@@ -126,46 +127,15 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 
 **Exemplos:**
 
-1. **Aplicativo de clima**
+Painel Supermercado (Observer) 
 
-   * Estações meteorológicas notificam apps sobre mudanças no tempo.
+* opcional: Forma de Notificação (Strategy)
 
-2. **Notificações em redes sociais**
+Estação Climática <!--(https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/ObserverAula)-->
 
-   * Quando alguém que você segue posta algo, você recebe uma notificação.
+Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/PortalDeNoticias)-->
 
-3. **Sistemas de bolsa de valores**
-
-   * Aplicações são notificadas em tempo real sobre variações nos preços de ações.
-
-4. **Editor de texto com plugins**
-
-   * Plugins são atualizados quando o conteúdo do documento muda.
-
-5. **Carrinho de compras online**
-
-   * Sistema de estoque observa o carrinho para atualizar a disponibilidade dos produtos.
-
-6. **Monitoramento de sensores em IoT**
-
-   * Dispositivos observam sensores e reagem quando há mudanças nos dados.
-
-7. **Sistemas de chat ou mensageria**
-
-   * Usuários são notificados quando novas mensagens chegam.
-
-8. **Aplicações bancárias**
-
-   * Cliente é notificado quando há movimentações na conta.
-
-9. **Jogos multiplayer online**
-
-   * Jogadores são atualizados quando há mudanças no estado do jogo (ex: entrada/saída de jogadores).
-
-10. **Sistemas de log/auditoria**
-
-* Módulos observam eventos do sistema para registrar logs automaticamente.
-
+Controle de Telas - Sistema Financeiro
 
 [Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
 
