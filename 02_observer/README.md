@@ -49,19 +49,23 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 * https://www.thiengo.com.br/padrao-de-projeto-observer
 * https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163
 
-**Exemplos:**
+### 🧠 Alguns Exemplos:
 
-Painel Supermercado (Observer) 
-
-* opcional: Forma de Notificação (Strategy)
-
-Estação Climática <!--(https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/ObserverAula)-->
-
-Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/PortalDeNoticias)-->
-
-Controle de Telas - Sistema Financeiro
-
-[Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
+1. **Sistema de notificações** (e-mail, SMS, push)
+2. **Relógio digital e analógico sincronizados**
+3. **Feed de redes sociais com atualização em tempo real**
+4. **Editor de texto com múltiplas visualizações**
+5. **Notificações de mudanças em arquivos (ex: `FileWatcher`)**
+6. **Sistema de cotações de ações (stock ticker)**
+7. **Chat em tempo real (novas mensagens para todos os usuários)**
+8. **Cliente de e-mail recebendo novas mensagens**
+9. **Sensor de temperatura com displays atualizando**
+10. **Carrinho de compras com atualização de total ao adicionar itens**
+11. Painel Supermercado (Observer) - opcional: Forma de Notificação (Strategy)
+12. Estação Climática <!--(https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/ObserverAula)-->
+13. Blog/Portal de Notícias <!--https://github.com/IgorAvilaPereira/ppp2023_2sem/tree/main/codigos/PortalDeNoticias)-->
+14. Controle de Telas - Sistema Financeiro (aula)
+15. [Exemplo comentado - Mudança de Temperatura (Ar condicionado)](https://esj.eti.br/Apostilas/Programacao/Java/Java_Exemplo_DesignPatterns_Observer.pdf) <br>
 
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/02_observer) <br><br>
