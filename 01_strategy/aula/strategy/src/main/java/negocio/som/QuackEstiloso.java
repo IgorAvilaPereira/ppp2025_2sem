@@ -30,6 +30,6 @@ public class QuackEstiloso implements ComportamentoSom {
     @Override
     public void emitirSom() {
         System.out.println("som estiloso!");
-        playSound("./src/main/resources/quack.wav");
+        playSound("/src/main/resources/quack.wav");
     }
 }
