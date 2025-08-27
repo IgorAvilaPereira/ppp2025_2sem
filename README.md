@@ -260,5 +260,6 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/templatemethod_vs_strategy.pdf) <br>
+[exemplo_templatemethod](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/exemplo_templatemethod) <br>
 [template_method](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/template_method) <br>
 [template_method2](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/template_method2) <br>
