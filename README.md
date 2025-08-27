@@ -256,6 +256,7 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./03_template_method)
+[template_method.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/template_method.md) <br>
 [template_method.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/template_method.pdf) <br>
 [templatemethod_vs_strategy2.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/templatemethod_vs_strategy2.png) <br>
 [templatemethod_vs_strategy.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./03_template_method/templatemethod_vs_strategy.pdf) <br>
