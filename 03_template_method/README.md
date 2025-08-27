@@ -66,11 +66,11 @@
 * [Código Aula - TemplateMethod-RenderPage com Spark](https://github.com/IgorAvilaPereira/ppp2022_2sem/tree/main/codigos/TemplateMethod-RenderPageSpark)
 -->
 
+<!--
 **Trabalho - Template Method:**
 
 * [Descrição Trabalho - Template Method](https://github.com/IgorAvilaPereira/ppp2024_1sem/wiki/Trabalhos#trabalho-3)
 
-<!--
 * [Dica para o Trabalho 3: Leitura e Escrita de Arquivos em Java](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/exemplocsv)
 -->
 
@@ -82,7 +82,9 @@
 
 * [Prática](https://youtu.be/n_pe9Z_7iZY)
 
+<!--
 * [Trabalho](https://youtu.be/a2VvNUx-ZeY)
+-->
 
 <!--* [Código](https://github.com/IgorAvilaPereira/ppp2023_1sem/tree/main/codigos/TemplateMethod)-->
 
@@ -101,8 +103,6 @@
 * :wave: :camera: https://www.youtube.com/watch?v=UtnQTLXKdeE
 
 * https://www.codingdrills.com/tutorial/design-patterns-tutorial/template-method-pattern
-
-
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./03_template_method)
