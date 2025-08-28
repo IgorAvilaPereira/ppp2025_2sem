@@ -329,9 +329,6 @@ Embora o padrão de projeto Command tenha muitas vantagens, ele também apresent
 Essas desvantagens não anulam os benefícios do padrão Command, mas é importante considerá-las ao decidir se este padrão é adequado para o seu projeto específico.
 
 
-* [Vídeo Aula Completa (Opção 2)](https://youtu.be/ze1xocE67gE)
-
-
 **Vídeos - Command:**
 
 * [Playlist](https://youtube.com/playlist?list=PLvT8P1q6jMWfpG66pRqDaeRYncXzP7BEK)
@@ -340,14 +337,21 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 * [Prática](https://youtu.be/NKWNPbzFO8k)
 
+<!--
 * [Trabalho](https://youtu.be/bKhafM8rieI)
 
-<!--* [Código Vídeos](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/Command)
+* [Código Vídeos](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/codigos/Command)
+
+-->
 
 **Material Complementar - Encontro Síncrono - Command - 04/11/21:**
 
 * [Vídeo](https://youtu.be/_BKMkDZkt_g)
 
+* [Vídeo Aula Completa (Opção 2)](https://youtu.be/ze1xocE67gE)
+
+
+<!--
 * [Código](https://github.com/IgorAvilaPereira/aps2022_1sem/tree/main/codigos/encontro-sincrono-0411211)
 -->
 
@@ -357,9 +361,6 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 * https://medium.com/xp-inc/design-patterns-parte-16-command-9c73af726c9c
 * https://fjp.at/design-patterns/command
 * https://www.codeprimers.com/command-design-pattern/
-
-
-
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./04_command)
