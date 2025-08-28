@@ -151,13 +151,29 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 **Exemplos:**
 
 * Relatório
-* Template
-* Algoritmos de Ordenação
 * Cálculo do Frete
 * Exportação/Conversão de Arquivos CSV
 * Extração de dados de documentos de diversos formatos
-* Gerador de templates HTML
 * Gerador de Relatórios de diversas fontes: csv, banco de dados e etc.
+* Processamento de documentos (PDF, Word, Excel)
+* Validação de formulário de cadastro
+* Algoritmo de ordenação com passos fixos e personalizáveis
+* Geração de relatórios em diferentes formatos
+* Pipeline de compilação de código
+* Carregamento de dados de diferentes fontes (banco de dados, API, arquivos)
+* Sistema de autenticação com diferentes provedores
+* Renderização de páginas HTML com diferentes layouts
+* Execução de testes com diferentes estratégias de setup e teardown
+* Processo de envio de notificações (e-mail, SMS, push)
+* Fluxo de pagamento com diferentes gateways (PayPal, Stripe, etc.)
+* Ciclo de vida de um jogo (iniciar, jogar, pausar, encerrar)
+* Serialização de objetos para diferentes formatos (JSON, XML)
+* Processamento de imagens com filtros customizáveis
+* Execução de tarefas agendadas com diferentes etapas
+* Construção de páginas web com diferentes seções obrigatórias
+* Processo de login com autenticação em duas etapas
+* Geração de código-fonte a partir de modelos
+* Configuração de ambiente para testes automatizados
 <!--
 [Códigos - Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/TemplateMethod)
 -->
