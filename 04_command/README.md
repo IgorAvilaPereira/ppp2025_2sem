@@ -59,11 +59,11 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 -->
 
-**Material Complementar - Encontro Síncrono - Command - 04/11/21:**
+**Material Complementar - Encontro Síncrono - Command:**
 
-* [Vídeo](https://youtu.be/_BKMkDZkt_g)
+<!--* [Vídeo](https://youtu.be/_BKMkDZkt_g)-->
 
-* [Vídeo Aula Completa (Opção 2)](https://youtu.be/ze1xocE67gE)
+* [Vídeo](https://youtu.be/ze1xocE67gE)
 
 
 <!--
