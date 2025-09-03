@@ -283,7 +283,6 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [command1.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command1.png) <br>
 [command2.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command2.png) <br>
 [command.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command.pdf) <br>
-https://youtu.be/AnbrV5e2WJ0
 
 Ex:
 
@@ -347,6 +346,8 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 -->
 
 **Material Complementar - Encontro Síncrono - Command:**
+
+* [Video 03/09/25](https://youtu.be/AnbrV5e2WJ0)
 
 <!--* [Vídeo](https://youtu.be/_BKMkDZkt_g)-->
 
