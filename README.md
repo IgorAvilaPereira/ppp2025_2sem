@@ -364,5 +364,7 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./04_command)
+[command_aula](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command_aula) <br>
+[command_web](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command_web) <br>
 [demo2](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/demo2) <br>
 [demo3](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/demo3) <br>
