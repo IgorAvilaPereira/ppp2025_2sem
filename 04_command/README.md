@@ -1,4 +1,3 @@
-https://youtu.be/AnbrV5e2WJ0
 
 Ex:
 
@@ -62,6 +61,8 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 -->
 
 **Material Complementar - Encontro Síncrono - Command:**
+
+* [Video 03/09/25](https://youtu.be/AnbrV5e2WJ0)
 
 <!--* [Vídeo](https://youtu.be/_BKMkDZkt_g)-->
 
