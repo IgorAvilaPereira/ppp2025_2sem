@@ -349,9 +349,9 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 
 * [Video 03/09/25](https://youtu.be/AnbrV5e2WJ0)
 
-<!--* [Vídeo](https://youtu.be/_BKMkDZkt_g)-->
+<!--* [Vídeo](https://youtu.be/_BKMkDZkt_g)
 
-* [Vídeo](https://youtu.be/ze1xocE67gE)
+* [Vídeo](https://youtu.be/ze1xocE67gE)-->
 
 
 <!--
