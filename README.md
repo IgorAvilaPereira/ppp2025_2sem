@@ -283,6 +283,8 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [command1.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command1.png) <br>
 [command2.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command2.png) <br>
 [command.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command.pdf) <br>
+https://youtu.be/AnbrV5e2WJ0
+
 Ex:
 
 * Controle de Automação Residencial
