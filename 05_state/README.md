@@ -1,20 +1,11 @@
-* Divulgação do Trabalhão do bimestre 
-    *   Data e Peso estão no SIGAA: assim fechamos 1 bim.
-
-Na volta (2 bim):
-* Padrões das demais categorias: criacional e estrutural
-
 **State**
 
-<!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)-->
+<!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)
 * [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
-<!-- 
 * [Exemplo - MárioBros](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/mario-finite-state-machine.jpg)
 * [Exemplo - Package](https://github.com/IgorAvilaPereira/ppp2024_2sem/blob/main/state.md)
 * [Trabalho 4 (State)](https://github.com/IgorAvilaPereira/ppp2024_2sem/wiki/Trabalhos#trabalho-4)
 * [Código - Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/State)
--->
-<!--
 * [Código Aula](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/StateMario)
 * [Código - MarioState (Aula)](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/MarioState)
 * [Código - Player (Aula)](https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/PlayerMusic)
@@ -40,7 +31,7 @@ Na volta (2 bim):
 
 * [Prática](https://youtu.be/OJahQFwk4fo)
 
-* [Trabalho 4 (State)](https://youtu.be/oCuHWQk4mPc)
+<!--* [Trabalho 4 (State)](https://youtu.be/oCuHWQk4mPc)-->
 
 * [Aula Completa](https://www.youtube.com/watch?v=zcZMVGpipZI&ab_channel=IgorAvilaPereira)
 
@@ -78,4 +69,4 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 * https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/State_Pattern_(padr%C3%A3o_de_desenho)/Exerc%C3%ADcio_02:_M%C3%A1quina_de_Lavar
 
 &nbsp;
-[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./05_state)
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./05_state)
