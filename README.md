@@ -373,6 +373,7 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 [demo3](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/demo3) <br>
 ## [./05_state](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./05_state) <br>
 [2025-04-02_13-35.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/2025-04-02_13-35.png) <br>
+[comparacao.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/comparacao.md) <br>
 [mario-finite-state-machine.jpg](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/mario-finite-state-machine.jpg) <br>
 **State**
 
