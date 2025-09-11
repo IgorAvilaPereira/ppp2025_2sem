@@ -1,9 +1,21 @@
+**Exemplos de aplicação do padrão Command**:
 
-Ex:
+1. **Editor de texto (Undo/Redo)**
+   * Cada ação do usuário (digitar, deletar, colar) é encapsulada como um comando.
+   * Pode-se armazenar os comandos em uma pilha para desfazer/refazer operações.
+2. **Menu de um aplicativo gráfico**
+   * Cada item de menu (Salvar, Abrir, Exportar) aciona um comando.
+   * Permite adicionar/remover funcionalidades sem modificar o menu.
+3. **Sistema de automação residencial**
+   * Botões de controle remoto (ligar luz, abrir porta, desligar ar) são comandos.
+   * Pode-se criar macros (sequências de comandos) ou agendamentos.
+4. **Fila de tarefas em servidores (job queues)**
+   * Cada tarefa é um comando que pode ser armazenado e executado posteriormente.
+   * Pode ser reexecutado em caso de falha.
+5. **Jogos (input de jogador)**
+   * Cada entrada (mover, atacar, pular) é um comando.
+   * Permite replays ou implementar funcionalidades como “gravar movimentos”.
 
-* Controle de Automação Residencial
-
-* Controle de Rotas para Ambiente Web
 
 <!--
 [Códigos Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/Command)

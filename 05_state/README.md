@@ -1,4 +1,19 @@
-**State**
+**Exemplos de aplicação do padrão State**:
+
+1. **Máquina de venda automática**
+   * Estados como: `SemMoeda`, `ComMoeda`, `ProdutoSelecionado`, `ProdutoEntregue`.
+   * Cada estado reage de forma diferente a ações como inserir moeda ou selecionar produto.
+2. **Processamento de pedidos de e-commerce**
+   * Estados: `Novo`, `Pago`, `Enviado`, `Entregue`, `Cancelado`.
+   * Cada transição muda o comportamento permitido sobre o pedido.
+3. **Conexão de rede (ex: socket)**
+   * Estados: `Desconectado`, `Conectando`, `Conectado`, `Erro`.
+   * Métodos como `enviarMensagem()` se comportam diferente dependendo do estado.
+4. **Editor de texto com modos (ex: modo de inserção, seleção, visualização)**
+   * Comportamento do teclado e mouse varia conforme o modo atual.
+5. **Jogos com máquinas de estado de personagens**
+   * Exemplo: Personagem com estados como `Andando`, `Correndo`, `Atacando`, `Morto`.
+   * O que acontece ao pressionar uma tecla depende do estado atual.
 
 <!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)
 * [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
