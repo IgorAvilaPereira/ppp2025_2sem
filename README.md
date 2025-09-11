@@ -478,3 +478,6 @@ https://acervolima.com/diferenca-entre-o-estado-e-o-padrao-de-design-de-estrateg
 [state.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/state.pdf) <br>
 [exemplo_state](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/exemplo_state) <br>
 [mariobros](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/mariobros) <br>
+## [./06_iterator](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./06_iterator) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/06_iterator) <br><br>
+&nbsp;
