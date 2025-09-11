@@ -283,12 +283,24 @@ https://github.com/IgorAvilaPereira/ppp2024_1sem/tree/main/codigos/placar_observ
 [command1.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command1.png) <br>
 [command2.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command2.png) <br>
 [command.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./04_command/command.pdf) <br>
+**Exemplos de aplicação do padrão Command**:
 
-Ex:
+1. **Editor de texto (Undo/Redo)**
+   * Cada ação do usuário (digitar, deletar, colar) é encapsulada como um comando.
+   * Pode-se armazenar os comandos em uma pilha para desfazer/refazer operações.
+2. **Menu de um aplicativo gráfico**
+   * Cada item de menu (Salvar, Abrir, Exportar) aciona um comando.
+   * Permite adicionar/remover funcionalidades sem modificar o menu.
+3. **Sistema de automação residencial**
+   * Botões de controle remoto (ligar luz, abrir porta, desligar ar) são comandos.
+   * Pode-se criar macros (sequências de comandos) ou agendamentos.
+4. **Fila de tarefas em servidores (job queues)**
+   * Cada tarefa é um comando que pode ser armazenado e executado posteriormente.
+   * Pode ser reexecutado em caso de falha.
+5. **Jogos (input de jogador)**
+   * Cada entrada (mover, atacar, pular) é um comando.
+   * Permite replays ou implementar funcionalidades como “gravar movimentos”.
 
-* Controle de Automação Residencial
-
-* Controle de Rotas para Ambiente Web
 
 <!--
 [Códigos Aula](https://github.com/IgorAvilaPereira/ppp2024_2sem/tree/main/codigos/Command)
@@ -375,7 +387,22 @@ Essas desvantagens não anulam os benefícios do padrão Command, mas é importa
 [2025-04-02_13-35.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/2025-04-02_13-35.png) <br>
 [comparacao.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/comparacao.md) <br>
 [mario-finite-state-machine.jpg](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./05_state/mario-finite-state-machine.jpg) <br>
-**State**
+**Exemplos de aplicação do padrão State**:
+
+1. **Máquina de venda automática**
+   * Estados como: `SemMoeda`, `ComMoeda`, `ProdutoSelecionado`, `ProdutoEntregue`.
+   * Cada estado reage de forma diferente a ações como inserir moeda ou selecionar produto.
+2. **Processamento de pedidos de e-commerce**
+   * Estados: `Novo`, `Pago`, `Enviado`, `Entregue`, `Cancelado`.
+   * Cada transição muda o comportamento permitido sobre o pedido.
+3. **Conexão de rede (ex: socket)**
+   * Estados: `Desconectado`, `Conectando`, `Conectado`, `Erro`.
+   * Métodos como `enviarMensagem()` se comportam diferente dependendo do estado.
+4. **Editor de texto com modos (ex: modo de inserção, seleção, visualização)**
+   * Comportamento do teclado e mouse varia conforme o modo atual.
+5. **Jogos com máquinas de estado de personagens**
+   * Exemplo: Personagem com estados como `Andando`, `Correndo`, `Atacando`, `Morto`.
+   * O que acontece ao pressionar uma tecla depende do estado atual.
 
 <!--* [Slides](https://github.com/IgorAvilaPereira/ppp2025_1sem/raw/main/slides/state.pdf)
 * [Trabalho 5 - State](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-5---state)
