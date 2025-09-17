@@ -540,3 +540,4 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/06_iterator) <br><br>
 &nbsp;
+[restaurante](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./06_iterator/restaurante) <br>
