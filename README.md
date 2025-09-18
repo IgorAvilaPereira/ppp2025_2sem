@@ -542,5 +542,6 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 &nbsp;
 [restaurante](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./06_iterator/restaurante) <br>
 ## [./07_revisao](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./07_revisao) <br>
+[exercicios_1bim.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./07_revisao/exercicios_1bim.pdf) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/07_revisao) <br><br>
 &nbsp;
