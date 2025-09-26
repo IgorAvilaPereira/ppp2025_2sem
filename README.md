@@ -551,3 +551,6 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [state](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./07_revisao/state) <br>
 [strategy1](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./07_revisao/strategy1) <br>
 [template_method](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./07_revisao/template_method) <br>
+## [./08_atividade1](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./08_atividade1) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/08_atividade1) <br><br>
+&nbsp;
