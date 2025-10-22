@@ -558,7 +558,9 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [decorator.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/decorator.pdf) <br>
 [decorator.svg](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/decorator.svg) <br>
 [exemplo.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/exemplo.png) <br>
+<!--
 [Trabalho 6](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-6---decorator)
+-->
 
 **Vídeos - Padrão Decorator:**
 
@@ -568,7 +570,9 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 
 * [Prática](https://youtu.be/QYxcqcIK7bs)
 
-**Leitura Complementar:**
+**Material Complementar:**
+
+* https://github.com/rinaldodev/design-patterns
 
 * https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/
 
