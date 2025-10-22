@@ -1,4 +1,6 @@
+<!--
 [Trabalho 6](https://github.com/IgorAvilaPereira/ppp2025_1sem/blob/main/trabalhos/trabalhos.md#trabalho-6---decorator)
+-->
 
 **Vídeos - Padrão Decorator:**
 
@@ -8,7 +10,9 @@
 
 * [Prática](https://youtu.be/QYxcqcIK7bs)
 
-**Leitura Complementar:**
+**Material Complementar:**
+
+* https://github.com/rinaldodev/design-patterns
 
 * https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/
 
