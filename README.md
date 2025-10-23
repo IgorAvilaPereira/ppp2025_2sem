@@ -581,3 +581,5 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./09_decorator)
 [starbucks.sql](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/starbucks.sql) <br>
 [decorator](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/decorator) <br>
+[editor_imagem](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/editor_imagem) <br>
+[starbucks_rg](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/starbucks_rg) <br>
