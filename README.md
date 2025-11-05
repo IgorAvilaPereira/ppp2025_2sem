@@ -584,6 +584,7 @@ Identificação: O iterador é fácil de reconhecer pelos métodos de navegaçã
 [editor_imagem](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/editor_imagem) <br>
 [starbucks_rg](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./09_decorator/starbucks_rg) <br>
 ## [./10_proxy](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./10_proxy) <br>
+[cronograma_2bim.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./10_proxy/cronograma_2bim.md) <br>
 [proxy.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./10_proxy/proxy.pdf) <br>
 <!--* [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/proxy.pdf)-->
 
