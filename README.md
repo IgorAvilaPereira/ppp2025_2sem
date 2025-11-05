@@ -659,3 +659,4 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_1sem/tree/main/./10_proxy)
 [tipos_proxy.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./10_proxy/tipos_proxy.md) <br>
 [proxy_aula](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./10_proxy/proxy_aula) <br>
+[proxy_pokemon](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./10_proxy/proxy_pokemon) <br>
