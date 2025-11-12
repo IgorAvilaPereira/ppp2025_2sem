@@ -668,6 +668,7 @@ tubeManager (com Proxy) - Exemplo Aula](https://github.com/IgorAvilaPereira/ppp2
 [prototype_deep_clone.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./11_prototype/prototype_deep_clone.md) <br>
 [prototype.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./11_prototype/prototype.md) <br>
 [prototype.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./11_prototype/prototype.pdf) <br>
+[prototype_teoria.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./11_prototype/prototype_teoria.md) <br>
 O **Prototype** é um **padrão de projeto criacional** que tem como objetivo **criar novos objetos a partir da cópia (clone)** de um objeto existente (o *protótipo*), em vez de instanciá-los diretamente com o operador `new`.
 
 Esse padrão é útil quando o custo de criação de um novo objeto é alto ou quando queremos preservar o estado de um objeto existente.
