@@ -1,6 +1,92 @@
+O **Prototype** é um **padrão de projeto criacional** que tem como objetivo **criar novos objetos a partir da cópia (clone)** de um objeto existente (o *protótipo*), em vez de instanciá-los diretamente com o operador `new`.
+
+Esse padrão é útil quando o custo de criação de um novo objeto é alto ou quando queremos preservar o estado de um objeto existente.
+
+---
+
+### 🧠 Conceito básico
+
+Em Java, o **Prototype** geralmente é implementado usando o método `clone()` da interface `Cloneable`.
+
+A ideia é:
+
+1. Ter uma **interface ou classe abstrata** com o método `clone()`;
+2. As **subclasses** implementam esse método, retornando uma cópia de si mesmas;
+3. O **cliente** usa o método `clone()` para criar novos objetos.
+
+---
+
+### 💡 Exemplo prático
+
+```java
+// Interface Prototype
+public interface Prototype extends Cloneable {
+    Prototype clone();
+}
+
+// Classe concreta
+public class Carro implements Prototype {
+    private String modelo;
+    private String cor;
+
+    public Carro(String modelo, String cor) {
+        this.modelo = modelo;
+        this.cor = cor;
+    }
+
+    @Override
+    public Prototype clone() {
+        return new Carro(this.modelo, this.cor);
+    }
+
+    @Override
+    public String toString() {
+        return "Carro{" + "modelo='" + modelo + '\'' + ", cor='" + cor + '\'' + '}';
+    }
+}
+
+// Cliente
+public class Main {
+    public static void main(String[] args) {
+        Carro prototipo = new Carro("Sedan", "Preto");
+
+        Carro carro1 = (Carro) prototipo.clone();
+        Carro carro2 = (Carro) prototipo.clone();
+
+        System.out.println(carro1);
+        System.out.println(carro2);
+    }
+}
+```
+
+---
+
+### 🧩 Saída esperada:
+
+```
+Carro{modelo='Sedan', cor='Preto'}
+Carro{modelo='Sedan', cor='Preto'}
+```
+---
+
+### 🧱 Vantagens:
+
+* Evita recriar objetos complexos do zero.
+* Permite copiar objetos sem conhecer suas classes exatas.
+* Facilita a criação de variações de objetos com pequenas mudanças.
+
+### ⚠️ Desvantagens:
+
+* Pode ser confuso quando há hierarquias complexas.
+* A clonagem profunda (*deep clone*) pode ser trabalhosa.
+
+---
+
 [Vídeo](https://youtu.be/sZD470eM7BU)
 
 [Código - Exemplo](https://github.com/IgorAvilaPereira/exemplo-prototype)
+
+---
 
 **Material Complementar:**
 
