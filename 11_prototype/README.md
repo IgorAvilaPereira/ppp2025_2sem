@@ -82,7 +82,41 @@ Carro{modelo='Sedan', cor='Preto'}
 
 ---
 
-[Vídeo](https://youtu.be/sZD470eM7BU)
+### Exemplos onde o **Prototype Pattern** pode ser usado:
+
+---
+
+* Clonar **configurações de usuários** (preferências, temas, permissões) para novos perfis.
+* Duplicar **modelos de documentos** (contratos, relatórios, formulários) já preenchidos parcialmente.
+* Criar **novos personagens de jogo** baseados em um modelo (mesmos atributos iniciais).
+* Gerar **produtos semelhantes** em um catálogo (com pequenas variações de preço ou nome).
+* Copiar **layouts gráficos** em softwares de design ou CAD.
+* Clonar **objetos de simulação** (como veículos ou partículas) sem reconstruí-los do zero.
+* Duplicar **protótipos de UI** (botões, janelas, componentes visuais) em aplicações desktop/mobile.
+* Recriar **objetos complexos carregados da base de dados** sem repetir o processo de carregamento.
+* Copiar **estruturas de configuração de rede ou servidor** com ajustes mínimos.
+* Criar **instâncias temporárias** de objetos pesados (por exemplo, gráficos 3D ou modelos de IA).
+
+---
+
+### Situações onde *não* é indicado usar o Prototype Pattern**:
+
+---
+
+* Quando o **objeto é simples** e instanciá-lo com `new` é rápido e barato.
+* Quando o **processo de clonagem é mais complexo** do que a criação normal.
+* Quando os objetos têm **referências cíclicas** ou **dependências difíceis de copiar** (por exemplo, árvores de objetos interligados).
+* Quando há **recursos não clonáveis**, como conexões de banco de dados, sockets ou streams abertos.
+* Quando o sistema precisa de **controle rigoroso sobre a criação** (por exemplo, com Factory ou Builder).
+* Quando o objeto depende fortemente de **injeção de dependência** (em frameworks como Spring, o Prototype pode conflitar com o ciclo de vida do container).
+* Quando a **cópia rasa (shallow copy)** causa problemas e uma **cópia profunda (deep copy)** seria muito custosa.
+* Quando é mais importante **garantir unicidade** — nesses casos, o **Singleton** é mais apropriado.
+* Quando a manutenção do código se torna difícil porque há **muitos tipos diferentes de clones** espalhados pelo sistema.
+* Quando o sistema precisa de **rastreamento ou versionamento explícito** de objetos, e o clone pode confundir o histórico.
+
+---
+
+[Video](https://youtu.be/sZD470eM7BU)
 
 [Código - Exemplo](https://github.com/IgorAvilaPereira/exemplo-prototype)
 
