@@ -1,8 +1,8 @@
-## Builder - Tipos - Implementação
+# Builder - Tipos - Implementação
 
 ---
 
-# ⭐ 1. **Builder clássico (classe interna)**
+## ⭐ 1. **Builder clássico (classe interna)**
 
 O modelo mais conhecido (Joshua Bloch – *Effective Java*).
 
@@ -59,7 +59,7 @@ Pessoa p = new Pessoa.Builder()
 
 ---
 
-# ⭐ 2. **Fluent Builder**
+## ⭐ 2. **Fluent Builder**
 
 Mesma ideia do Builder clássico, mas com um *método estático builder()*.
 
@@ -102,7 +102,7 @@ Pessoa p = Pessoa.builder()
 
 ---
 
-# ⭐ 3. **Builder externo (classe separada)**
+## ⭐ 3. **Builder externo (classe separada)**
 
 Útil quando a classe original **não pode ser modificada**.
 
@@ -138,7 +138,7 @@ public class PessoaBuilder {
 
 ---
 
-# ⭐ 4. **Builder com validação**
+## ⭐ 4. **Builder com validação**
 
 ### **Código**
 
@@ -181,7 +181,7 @@ public class Pessoa {
 
 ---
 
-# ⭐ 5. **Step Builder Pattern (força a ordem)**
+## ⭐ 5. **Step Builder Pattern (força a ordem)**
 
 ### **Código**
 
@@ -258,7 +258,7 @@ Pessoa p = Pessoa.builder()
 
 ---
 
-# ⭐ 6. **Builder imutável (cada passo cria uma cópia)**
+## ⭐ 6. **Builder imutável (cada passo cria uma cópia)**
 
 Mais funcional (como em linguagens imutáveis).
 
@@ -294,7 +294,7 @@ public class PessoaBuilder {
 
 ---
 
-# ⭐ 7. **Builder estilo DSL (quase Kotlin)**
+## ⭐ 7. **Builder estilo DSL (quase Kotlin)**
 
 Simula uma *mini linguagem*.
 
@@ -328,7 +328,7 @@ Pessoa p = Pessoa.create(pessoa -> {
 
 ---
 
-# ⭐ 8. **Builder com Lombok (automático)**
+## ⭐ 8. **Builder com Lombok (automático)**
 
 Extremamente usado no mercado.
 
@@ -359,7 +359,7 @@ Pessoa p = Pessoa.builder()
 
 ---
 
-# ⭐ 9. **Builder com herança (Abstract Builder)**
+## ⭐ 9. **Builder com herança (Abstract Builder)**
 
 Evita duplicação quando subclasses também usam builder.
 
@@ -401,4 +401,3 @@ public class FuncionarioBuilder extends PessoaBuilder<FuncionarioBuilder> {
     }
 }
 ```
----
