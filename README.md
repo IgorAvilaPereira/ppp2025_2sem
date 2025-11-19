@@ -832,6 +832,7 @@ Carro{modelo='Sedan', cor='Preto'}
 [prototype_concessionaria](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./11_prototype/prototype_concessionaria) <br>
 ## [./12_builder](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./12_builder) <br>
 [2025-06-04_17-16.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/2025-06-04_17-16.png) <br>
+[builder_exemplos.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder_exemplos.md) <br>
 [builder.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder.md) <br>
 [builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder.pdf) <br>
 [builder_teoria.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder_teoria.md) <br>
