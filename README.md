@@ -834,6 +834,7 @@ Carro{modelo='Sedan', cor='Preto'}
 [2025-06-04_17-16.png](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/2025-06-04_17-16.png) <br>
 [builder.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder.md) <br>
 [builder.pdf](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder.pdf) <br>
+[builder_teoria.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/builder_teoria.md) <br>
 <!--
 [Slides](https://github.com/IgorAvilaPereira/ppp2024_2sem/raw/main/slides/builder.pdf)
 
