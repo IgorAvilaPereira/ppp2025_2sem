@@ -940,3 +940,5 @@ Carro{modelo='Sedan', cor='Preto'}
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./12_builder)
 [aula_builder](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/aula_builder) <br>
 [exemplo_builder](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/exemplo_builder) <br>
+## [./13_revisao](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./13_revisao) <br>
+[lista2.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./13_revisao/lista2.md) <br>
