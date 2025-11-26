@@ -942,3 +942,4 @@ Carro{modelo='Sedan', cor='Preto'}
 [exemplo_builder](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./12_builder/exemplo_builder) <br>
 ## [./13_revisao](https://github.com/IgorAvilaPereira/ppp2025_2sem/tree/main/./13_revisao) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./13_revisao/lista2.md) <br>
+[exercicios](https://github.com/IgorAvilaPereira/ppp2025_2sem/blob/main/./13_revisao/exercicios) <br>
